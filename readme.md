@@ -9,3 +9,4 @@
         git commit -m '注释'
     4.仓库状态
         git status
+        git diff
