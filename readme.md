@@ -10,3 +10,7 @@
     4.仓库状态
         git status
         git diff
+    5.版本回退
+        git log
+        git reset --hard HEAD^
+        git reset --hard 1094a
